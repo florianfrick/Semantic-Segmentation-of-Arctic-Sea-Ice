@@ -4,8 +4,8 @@ Creating sea ice maps of the Arctic and other polar regions
 has remained a challenge for both research and industry; currently this
 remains a manual interpretation task by experts in the field. Attempts
 have been made to automate this process using neural networks like
-CNNs. We expanded on previous work to automate this process by uti-
-lizing a colorized image dataset of the Hudson Bay in Canada and a
+CNNs. We expanded on previous work to automate this process by
+utilizing a colorized image dataset of the Hudson Bay in Canada and a
 SegFormer architecture to perform semantic segmentation prediction.
 Our results indicate that the model performs significantly better than
 a former attempt: we achieved an overall accuracy of 89% and a mean
